@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\71d805e8ef05e44053534cc73abbcfec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8eb7793b9f8989671f006aebe58b3f41\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e1389be60241e47f01eb764a2ff9bd06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b915f2be7de4e2556e3dcc649d807aec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e67de6966fc87685f85d77016d28728e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1e04bcd26dc37aba247a5c697f3730f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\126d7ec34374af88690206e8921134b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0270336fd4dac2e73a63efc7186b9f68\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\00b3c0c58bcfc0faee9e28dd63fccb40\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\036d5b843c97c4694fbf49a209544216\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e3a092f44d69d2c4a67331ac76dca9e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\45e2fee9a954660d3afdc59b997e4c78\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+	package
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:21:5-43
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:1-39:12
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:20:11-69
+application
+ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:23:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8eb7793b9f8989671f006aebe58b3f41\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8eb7793b9f8989671f006aebe58b3f41\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:26:9-41
+	android:roundIcon
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:29:9-40
+activity#com.android.example.notifyme.MainActivity
+ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:30:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\71d805e8ef05e44053534cc73abbcfec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\71d805e8ef05e44053534cc73abbcfec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8eb7793b9f8989671f006aebe58b3f41\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\8eb7793b9f8989671f006aebe58b3f41\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e1389be60241e47f01eb764a2ff9bd06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e1389be60241e47f01eb764a2ff9bd06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b915f2be7de4e2556e3dcc649d807aec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b915f2be7de4e2556e3dcc649d807aec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e67de6966fc87685f85d77016d28728e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e67de6966fc87685f85d77016d28728e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1e04bcd26dc37aba247a5c697f3730f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1e04bcd26dc37aba247a5c697f3730f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\126d7ec34374af88690206e8921134b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\126d7ec34374af88690206e8921134b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0270336fd4dac2e73a63efc7186b9f68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0270336fd4dac2e73a63efc7186b9f68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\00b3c0c58bcfc0faee9e28dd63fccb40\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\00b3c0c58bcfc0faee9e28dd63fccb40\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\036d5b843c97c4694fbf49a209544216\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\036d5b843c97c4694fbf49a209544216\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e3a092f44d69d2c4a67331ac76dca9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e3a092f44d69d2c4a67331ac76dca9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\45e2fee9a954660d3afdc59b997e4c78\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vsptp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\45e2fee9a954660d3afdc59b997e4c78\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vsptp\AndroidStudioProjects\android-fundamentals-apps-v2-master\NotifyMe\app\src\main\AndroidManifest.xml
